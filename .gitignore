@@ -1,0 +1,5 @@
+# Ignore pre-built bundle
+1-pre-built-bundle/
+
+# Ignore node modules (React / Node)
+node_modules/
